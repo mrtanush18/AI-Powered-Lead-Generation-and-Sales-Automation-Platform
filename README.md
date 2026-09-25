@@ -8,7 +8,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 
 * ABC Corp. is a software development and AI consulting company that can provide engineers with relevant technical skills. John Doe, ABC Corp's BDE, identifies the Google job posting and sends a personalized cold email highlighting the company's capabilities and relevant portfolio projects.
 
-![img.png](imgs/imgs.png)
+![img.png](imgs/imgs1.png)
 
 ## Architecture Diagram
 
